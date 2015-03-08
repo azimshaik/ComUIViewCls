@@ -16,5 +16,7 @@
 @property(nonatomic,strong) UIImage *myImg;
 @property(nonatomic,strong) UITextView *myText;
 @property(nonatomic, strong) UITableView *myTable;
+@property(nonatomic, strong) UILabel *myLabel;
+@property(nonatomic,strong) UIButton *myBotton;
 @end
 
