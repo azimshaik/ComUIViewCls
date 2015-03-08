@@ -33,7 +33,7 @@
     self.myText = [[UITextView alloc] initWithFrame:CGRectMake(150.0, 100.0, 150.0, 30.0)];
     myText.backgroundColor = [UIColor orangeColor];
     
-    self.myTable = [UITableView alloc] initWithCoder:<#(NSCoder *)#>
+    //self.myTable = [UITableView alloc] ini
     self.myImgView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"image1.png"]];
     myImgView.frame = CGRectMake(200.0, 250.0, 150.0, 300.0);
     //myImgView.center = myImgView.superview.center;
