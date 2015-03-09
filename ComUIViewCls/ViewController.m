@@ -23,6 +23,8 @@
 @synthesize myTable;
 @synthesize myLabel;
 @synthesize myBotton;
+@synthesize myScroll;
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     
@@ -59,6 +61,11 @@
     [contactButton setFrame:CGRectMake(60, 200, 200, 40)];
     [self.view addSubview:contactButton];
     
+    self.myScroll = [[UIScrollView alloc] initWithFrame:CGRectMake(10.0, 400.0, 150.0, 200.0)];
+    
+    myScroll.backgroundColor = [UIColor grayColor];
+    
+    
     
     self.square = [[UIView alloc] initWithFrame:CGRectMake(10.0, 10.0, 50.0, 50.0)];
     square.backgroundColor = [UIColor yellowColor];
@@ -73,6 +80,7 @@
     [self.view addSubview:myLabel];
     [self.view addSubview:myBotton];
     [self.view addSubview:infolightBtn];
+    [self.view addSubview:myScroll];
     [self.view addSubview:square];
     [self.view addSubview:square2];
     

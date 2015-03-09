@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3BBFCE94-3A29-46EE-B546-36F2C8591989</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ComUIViewCls</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0A17C264D55AAC3781BF5A717DF5CEF0D203C09F</key>
+		<string>https://github.com/azimshaik/ComUIViewCls.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ComUIViewCls.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0A17C264D55AAC3781BF5A717DF5CEF0D203C09F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/azimshaik/ComUIViewCls.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0A17C264D55AAC3781BF5A717DF5CEF0D203C09F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0A17C264D55AAC3781BF5A717DF5CEF0D203C09F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ComUIViewCls</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -18,5 +18,7 @@
 @property(nonatomic, strong) UITableView *myTable;
 @property(nonatomic, strong) UILabel *myLabel;
 @property(nonatomic,strong) UIButton *myBotton;
+@property(nonatomic,strong) UIScrollView *myScroll;
+@property(nonatomic, strong) UIViewController *myview;
 @end
 
